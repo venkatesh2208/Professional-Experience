@@ -1,10 +1,10 @@
 # Senior SRE / DevOps Engineer
-**14+ Years of Experience | Payment Systems & High-Scale Microservices**
+**10+ Years of Experience | Payment Systems & High-Scale Microservices**
 
 ---
 
 ## Professional Summary
-Proven SRE/DevOps leader with 14+ years building resilient, secure, and observable infrastructure for payment-critical systems at Venmo/PayPal and fintech platforms. Expert in AWS platform engineering, Kubernetes orchestration, GitOps automation, and incident response. Specialized in designing enterprise-grade observability, complex Terraform modules, and zero-downtime deployment strategies at scale.
+Proven SRE/DevOps leader with 10+ years building resilient, secure, and observable infrastructure for payment-critical systems at Venmo/PayPal and fintech platforms. Expert in AWS platform engineering, Kubernetes orchestration, GitOps automation, and incident response. Specialized in designing enterprise-grade observability, complex Terraform modules, and zero-downtime deployment strategies at scale.
 
 ---
 
@@ -51,7 +51,7 @@ Proven SRE/DevOps leader with 14+ years building resilient, secure, and observab
 
 ## Career Highlights
 
-**Venmo / PayPal** — Senior SRE / DevOps Engineer (14+ years combined)
+**Venmo / PayPal** — Senior SRE / DevOps Engineer (10+ years combined)
 - Led infrastructure transformation from on-prem to AWS multi-account architecture. Researched cloud migration strategies, evaluated cost/risk trade-offs, and orchestrated phased cutover minimizing production disruption.
 - Built and operated production SRE practices: on-call, alerting, postmortems, runbooks. Established blameless postmortem culture; researched alert tuning methodologies; built runbook automation to enable junior engineers to resolve 80% of incidents independently.
 - Owned Terraform strategy and delivered 100+ modules for networking, compute, and security. Researched module composition patterns, evaluated testing frameworks, and documented complex infrastructure decisions enabling team self-service.
@@ -71,7 +71,11 @@ Proven SRE/DevOps leader with 14+ years building resilient, secure, and observab
 ---
 
 ## Certifications & Continuous Learning
-- AWS Certified Solutions Architect / DevOps Professional
-- Kubernetes Application Developer (CKAD) / Administrator (CKA)
-- HashiCorp Certified: Terraform Associate / Vault Associate
-- Regular speaker on SRE, Kubernetes, and infrastructure automation at industry meetups.
+- AWS Certified Solutions Architect – Professional: a4f3c41988d847f29c48f1aa3ded0e23
+- Kubernetes Administrator (CKA) – Certified - Certificate Number: LF-73qqoskeav
+- HashiCorp Certified: Terraform Associate
+- HashiCorp Certified: Vault Associate
+- Azure DevOps Engineer: 991038364
+- Azure Security Engineer: H707-0372
+- CEH v11 – Certification Number: ECC3416902578
+

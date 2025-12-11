@@ -368,14 +368,13 @@ Cast AI, Kubernetes Cost Optimization, Cluster Autoscaling, Pod Autoscaling, Nod
 
 ## CERTIFICATIONS & CONTINUOUS LEARNING
 
-- AWS Certified Solutions Architect – Professional
-- AWS Certified DevOps Engineer – Professional
-- Kubernetes Application Developer (CKAD) – Certified
-- Kubernetes Administrator (CKA) – Certified
+- AWS Certified Solutions Architect – Professional: a4f3c41988d847f29c48f1aa3ded0e23
+- Kubernetes Administrator (CKA) – Certified - Certificate Number: LF-73qqoskeav
 - HashiCorp Certified: Terraform Associate
 - HashiCorp Certified: Vault Associate
-- Active participant in SRE, Kubernetes, and infrastructure automation communities
-- Regular speaker at industry conferences and local tech meetups
+- Azure DevOps Engineer: 991038364
+- Azure Security Engineer: H707-0372
+- CEH v11 – Certification Number: ECC3416902578
 
 ---
 

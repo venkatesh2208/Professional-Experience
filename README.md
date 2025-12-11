@@ -1,12 +1,12 @@
 # Senior SRE / DevOps Engineer
 
-**14+ Years of Experience | Payment Systems & High-Scale Cloud Infrastructure**
+**10+ Years of Experience | Payment Systems & High-Scale Cloud Infrastructure**
 
 ---
 
 ## 👋 About Me
 
-Proven SRE/DevOps leader with 14+ years architecting and operating enterprise-grade cloud infrastructure at scale. Expert in building resilient, observable, and secure platforms for payment-critical systems. Specialized in AWS ecosystem, Kubernetes orchestration, Infrastructure as Code (Terraform), GitOps automation, and production incident response.
+Proven SRE/DevOps leader with 10+ years architecting and operating enterprise-grade cloud infrastructure at scale. Expert in building resilient, observable, and secure platforms for payment-critical systems. Specialized in AWS ecosystem, Kubernetes orchestration, Infrastructure as Code (Terraform), GitOps automation, and production incident response.
 
 **Key Focus Areas:**
 - 🏗️ **Architecture & Design**: High-availability multi-account AWS, microservice platforms spanning 300+ services

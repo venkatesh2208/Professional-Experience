@@ -1,13 +1,13 @@
 
 # ATS-Optimized Resume (Keyword-Rich for Applicant Tracking Systems)
 **Senior SRE / DevOps Engineer**
-14+ Years Experience | Payment Systems | Cloud Infrastructure | Kubernetes | AWS
+10+ Years Experience | Payment Systems | Cloud Infrastructure | Kubernetes | AWS
 
 ---
 
 ## PROFESSIONAL SUMMARY
 
-Senior SRE/DevOps Engineer with 14+ years of experience architecting, implementing, and operating enterprise-grade cloud infrastructure and DevOps platforms at scale. Deep expertise in AWS, Kubernetes, Terraform, ArgoCD, GitOps, Datadog, and production incident response. Proven track record designing high-availability systems for payment-critical services with 99.95%+ uptime. Skilled in complex Terraform module development, Kubernetes orchestration, Istio service mesh, Vault secrets automation, N8N integration workflows, and multi-account AWS architecture across Fargate, EKS, Lambda, DynamoDB, OpenSearch, Kinesis, EventBridge, and managed Kafka. Expert in production SRE practices, incident response, postmortems, and cross-functional leadership.
+Senior SRE/DevOps Engineer with 10+ years of experience architecting, implementing, and operating enterprise-grade cloud infrastructure and DevOps platforms at scale. Deep expertise in AWS, Kubernetes, Terraform, ArgoCD, GitOps, Datadog, and production incident response. Proven track record designing high-availability systems for payment-critical services with 99.95%+ uptime. Skilled in complex Terraform module development, Kubernetes orchestration, Istio service mesh, Vault secrets automation, N8N integration workflows, and multi-account AWS architecture across Fargate, EKS, Lambda, DynamoDB, OpenSearch, Kinesis, EventBridge, and managed Kafka. Expert in production SRE practices, incident response, postmortems, and cross-functional leadership.
 
 ---
 
@@ -63,7 +63,7 @@ System Performance Analysis, Network Diagnostics, Database Performance Tuning, A
 ## PROFESSIONAL EXPERIENCE
 
 ### Senior SRE / DevOps Engineer | Payment Systems Platforms
-**14+ Years Combined Experience**
+**10+ Years Combined Experience**
 
 **Architectural & Design Leadership:**
 - Architected high-availability AWS multi-account infrastructure processing millions of daily payment transactions with 99.95%+ uptime SLA.
@@ -204,15 +204,13 @@ System Performance Analysis, Network Diagnostics, Database Performance Tuning, A
 
 ## CERTIFICATIONS & CONTINUOUS LEARNING
 
-- AWS Certified Solutions Architect – Professional
-- AWS Certified DevOps Engineer – Professional
-- Kubernetes Application Developer (CKAD) – Certified
-- Kubernetes Administrator (CKA) – Certified
+- AWS Certified Solutions Architect – Professional: a4f3c41988d847f29c48f1aa3ded0e23
+- Kubernetes Administrator (CKA) – Certified - Certificate Number: LF-73qqoskeav
 - HashiCorp Certified: Terraform Associate
 - HashiCorp Certified: Vault Associate
-- Active participant in SRE, Kubernetes, and infrastructure automation communities
-- Regular speaker at industry conferences and local tech meetups
-
+- Azure DevOps Engineer: 991038364
+- Azure Security Engineer: H707-0372
+- CEH v11 – Certification Number: ECC3416902578
 ---
 
 ## KEYWORDS FOR ATS MATCHING
